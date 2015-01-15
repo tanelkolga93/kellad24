@@ -2,7 +2,7 @@
 if (isset($_POST['module'])) {
 
     // Bootstrap mini-framework
-    define('PROJECT_NAME', 'Halo');
+    define('PROJECT_NAME', 'kellad24');
     define('DEFAULT_CONTROLLER', 'Halo');
     require '../system/classes/Application.php';
     $app = new Application;
